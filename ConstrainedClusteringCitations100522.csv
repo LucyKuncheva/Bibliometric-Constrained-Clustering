@@ -1,0 +1,41 @@
+sorted_bibkeys,years,citations,titles
+Yan06,2006,135,A discriminative learning framework with pairwise constraints for video object classification
+Dao16,2016,17,A Framework for Actionable Clustering Using Constraint Programming
+Zhang19,2019,43,A framework for deep constrained clustering-algorithms and advances
+Covoes13,2013,45,A study of K-Means-based algorithms for constrained clustering
+Davidson07,2007,123,A Survey of Clustering with Instance Level Constraints
+Dinler16,2016,26,A survey of constrained clustering
+Abin15,2015,31,Active constrained fuzzy clustering: {A} multiple kernels learning approach
+Basu04,2004,741,Active semi-supervision for pairwise constrained clustering
+Davidson05,2005,313,Agglomerative hierarchical clustering with constraints: Theoretical and empirical results
+Kulshreshtha18,2018,11,An Online Algorithm for Constrained Face Clustering in Videos
+Zhi13,2013,17,Clustering with Complex Constraints - Algorithms and Applications
+Wagstaff00,2000,826,Clustering with instance-level constraints
+Shental03,2003,355,Computing Gaussian Mixture Models with EM Using Equivalence Constraints
+Wu13,2013,141,Constrained clustering and its application to face clustering in videos
+Dao17,2017,94,Constrained clustering by constraint programming
+Semnani16,2016,3,Constrained clustering for flocking-based tracking in maneuvering target environment
+Amorim12,2012,31,Constrained clustering with minkowski weighted k-means
+Basu08,2008,682,"Constrained clustering: Advances in algorithms, theory, and applications"
+Ganccarski20,2020,11,Constrained clustering: Current and new trends
+Wagstaff01,2001,3501,Constrained k-means clustering with background knowledge
+Zhigang13,2013,7,Constrained K-means with external information
+Cao15,2015,94,Constrained Multi-View Video Face Clustering
+KalogeitonZ20,2020,2,Constrained Video Face Clustering using 1NN Relations
+Ge07,2007,49,Constraint-driven clustering
+Jain10,2010,9493,Data clustering: 50 years beyond K-means
+Lafabregue19,2019,3,Deep Constrained Clustering applied to Satellite Image Time Series
+Lin20,2020,19,Discovering new intents via constrained deep adaptive clustering with cluster refinement
+Sarfraz19,2019,86,Efficient parameter-free clustering using first neighbor relations
+Lu,2011,77,Exhaustive and Efficient Constraint Propagation- A Semi-Supervised Learning Perspective and Its Applications
+Klein02,2002,760,From instance-level constraints to space-level constraints: Making the most of prior knowledge in data clustering
+Hong08,2008,45,Learning assignment order of instances for the constrained k-means clustering algorithm
+Zhan22,2022,9,Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval
+Hiep16,2016,17,Local search approach for the pairwise constrained clustering problem
+Davidson06,2006,270,Measuring constraint-set utility for partitional clustering algorithms
+Pourrajabi14,2014,20,Model selection for semi-supervised clustering
+Hsu16,2016,68,Neural network-based clustering using pairwise constraints
+Wang14,2014,189,On constrained spectral clustering and its applications
+Basu02,2002,1255,Semi-supervised clustering by seeding
+Cohn03,2003,409,Semi-supervised clustering with user feedback
+Peng18,2018,6,Tracklet siamese network with constrained clustering for multiple object tracking
